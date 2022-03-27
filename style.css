@@ -115,9 +115,9 @@ li {
    transition: all 0.5s;
 }
 
-.menu-btn:hover {
+/* .menu-btn:hover {
    color: crimson;
-}
+} */
 
 .scroll-up-btn {
    position: fixed;
