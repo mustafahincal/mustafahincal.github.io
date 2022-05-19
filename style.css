@@ -462,29 +462,29 @@ li {
 }
 
 .skills .s-c-l .css::before {
-   width: 85%;
+   width: 90%;
 }
 
-.skills .s-c-l .bootstrap::before {
-   width: 70%;
+.skills .s-c-l .tailwind::before {
+   width: 80%;
 }
 
 .skills .s-c-l .js::before {
-   width: 70%;
+   width: 80%;
 }
 .skills .s-c-r .react::before {
-   width: 60%;
+   width: 80%;
 }
 
 .skills .s-c-r .java::before {
-   width: 75%;
+   width: 85%;
 }
 
 .skills .s-c-r .mysql::before {
    width: 70%;
 }
 .skills .s-c-r .photoshop::before {
-   width: 50%;
+   width: 60%;
 }
 
 /**Contact*/
