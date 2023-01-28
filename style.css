@@ -470,21 +470,21 @@ li {
 }
 
 .skills .s-c-l .js::before {
-   width: 80%;
+   width: 90%;
 }
 .skills .s-c-r .react::before {
-   width: 80%;
+   width: 85%;
 }
 
 .skills .s-c-r .java::before {
-   width: 85%;
+   width: 80%;
 }
 
 .skills .s-c-r .mysql::before {
    width: 70%;
 }
 .skills .s-c-r .photoshop::before {
-   width: 60%;
+   width: 70%;
 }
 
 /**Contact*/
